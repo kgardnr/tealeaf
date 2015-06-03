@@ -8,5 +8,5 @@ new_answer = mess_with_it(answer)
 
 p answer - 8
 
-# Answer is 34 because the old code that's run is:
+# Answer is 34 because the only code that's run is:
 # 42 - 8
